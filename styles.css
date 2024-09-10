@@ -35,7 +35,7 @@ body {
 }
 
 .container__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--botao-rosa);
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
@@ -142,7 +142,7 @@ body {
 }
 
 .lista__link a:hover {
-    color: var(--botao-azul);
+    color: var(--botao-rosa);
 }
 
 .lista__link a:active {
@@ -150,6 +150,6 @@ body {
 }
 
 .container__botao:hover {
-    background-color: var(--botao-azul-efeito);
+    background-color: var(--botao-rosa-efeito);
     color: var(--cor-de-fundo);
 }
